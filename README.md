@@ -18,4 +18,4 @@ Currently I am a member in CNSS/DevOps:
 
 ## Find me here
 
-[![](https://img.shields.io/badge/-https://yadom.in-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.skk.moe) [![](https://img.shields.io/badge/-t.me/@Yadomin-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Yadomin)
+[![](https://img.shields.io/badge/-https://yadom.in-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.yadom.in) [![](https://img.shields.io/badge/-t.me/@Yadomin-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Yadomin)
