@@ -4,9 +4,9 @@
 
 # Yadomin
 
-> Learning Web and Embedded.
+> Learning DevOps.
 
-![](https://img.shields.io/badge/-TypeScript-294e80?style=flat-square&logo=TypeScript&labelColor=294e80&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) ![](http://img.shields.io/badge/-Python-244f72?style=flat-square&logo=python&logoColor=fff) ![](http://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61dafb)
+![](https://img.shields.io/badge/-TypeScript-294e80?style=flat-square&logo=TypeScript&labelColor=294e80&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) ![](http://img.shields.io/badge/-Python-244f72?style=flat-square&logo=python&logoColor=fff) ![](http://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61dafb) ![](https://img.shields.io/badge/-GoLang-00acd7?style=flat-square&logo=go&labelColor=00acd7&logoColor=fff)
 
 Currently I am a member in CNSS/DevOps:
 
